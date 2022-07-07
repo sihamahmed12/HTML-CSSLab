@@ -1,0 +1,48 @@
+.rec1{
+    height:150px;
+    border:3px solid black;
+    position: relative; left: 75 px;
+}
+
+.dot {
+    height: 145px;
+    width: 145px;
+    background-color: rgb(27, 148, 228);
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .square {
+    height: 125px;
+    width: 200px;
+    background-color: rgb(27, 148, 228);
+    display: inline-block;
+  }
+
+  .rectangle {
+    height: 145px;
+    width: 145px;
+    background-color: rgb(27, 148, 228);
+    border-radius: 50%;
+    display: inline-block;
+  }
+.rec2 {
+    height:300px;
+    border:3px dotted black;
+}
+
+
+
+.rec3 {
+    height:300px;
+    width: 500px;
+    border:3px  solid black;
+    position: relative; top: 75 px;
+    position: relative; left: 350px 
+}
+
+p {
+    color: blue;
+    font-size: xxx-large;
+    position: relative; left: 100px
+    
+}

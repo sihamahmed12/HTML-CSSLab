@@ -1,0 +1,42 @@
+
+
+/* body > div {
+    background-color: blanchedalmond;
+    position: relative;
+    height: 2000px;
+} */
+
+
+.grey-box{
+    top:0px;
+    height:150px;
+    background-color: rgb(15, 13, 13)
+} 
+
+
+.white-box{
+    height: 700px;
+    width: 150px;
+    background-color: rgb(144, 138, 138)
+}
+
+
+.yellow-box{
+    height: 800px;
+    width: 100px;
+    background-color: rgb(87, 82, 82);
+    float: right; 
+    margin-top: -800px
+}
+
+
+.black-box{
+    bottom: 0px;
+    height: 100px;
+    width: 900px;
+    background-color: rgb(12, 11, 11);
+    float: right; 
+    margin-left: 150px;
+    margin-right: 150px;
+    position: relative; top: -100px;
+}
